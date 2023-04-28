@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\huyn3\source\repos\Project3\Project3\Source.cpp(93,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\huyn3\source\repos\Project3\Project3\Source.cpp(103,2): error C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
